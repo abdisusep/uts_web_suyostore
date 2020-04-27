@@ -63,7 +63,7 @@ export const CollectionComponent = {
 		<section class="section-name bg-light padding-y-sm">
 		  <div class="container">
 		    <header class="section-heading">
-		      <h3 class="section-title">Detail Collection</h3>
+		      <h3 class="section-title">Detail Product</h3>
 		    </header>
 		  </div>
 		</section>
