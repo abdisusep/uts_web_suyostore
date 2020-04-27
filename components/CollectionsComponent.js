@@ -67,7 +67,7 @@ export const CollectionsComponent = {
 		<section class="section-name bg-light padding-y-sm">
 		  <div class="container">
 		    <header class="section-heading">
-		      <h3 class="section-title">Collections</h3>
+		      <h3 class="section-title">Products</h3>
 		    </header>
 		  </div>
 		</section>
